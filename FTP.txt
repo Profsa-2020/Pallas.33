@@ -1,0 +1,43 @@
+[
+	{
+		"name": "Mall-Profsa",
+		"host": "ftp.inatoshopp.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "u140657908.profsa",
+		"password": "profsa1993",
+		"path": "/",
+		"autosave": false,
+		"confirm": true
+	}
+]
+
+[
+	{
+		"name": "Mall-Paulo",
+		"host": "ftp.inatoshopp.com",
+		"port": 21,
+		"type": "ftp",
+		"username": "u140657908.paulo",
+		"password": "Paulo_1965",
+		"path": "/",
+		"autosave": false,
+		"confirm": true
+	}
+]
+
+[
+	{
+		"name": "Pallas.33",
+		"host": "ftp.profsa.com.br",
+		"port": 21,
+		"type": "ftp",
+		"username": "profsa.com.br",
+		"password": "Profsa_1993",
+		"path": "/pallas33/",
+		"autosave": false,
+		"confirm": true
+	}
+]
+
+
